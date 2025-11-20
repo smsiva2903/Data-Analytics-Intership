@@ -27,7 +27,7 @@ The dataset contains 891 passenger records with the following columns:
 
 ---
 
-## 🛠 Tools & Libraries Used
+##  Tools & Libraries Used
 - Python  
 - Jupyter Notebook  
 - Pandas  
@@ -93,4 +93,5 @@ All code and visuals are included in the notebook and PDF report.
 - `README.md` – Documentation (this file)
 
 ---
+
 
