@@ -21,7 +21,7 @@ Columns include:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - Power BI Desktop  
 - Sample Superstore Dataset  
 - GitHub (for submission)
@@ -31,26 +31,26 @@ Columns include:
 ##  Dashboard Contents
 The dashboard contains the following visuals:
 
-### ✔ 1. KPI Cards
+###  1. KPI Cards
 - **Total Sales**  
 - **Total Profit**  
 - **Total Orders (Count of Order ID)**  
 - **Average Sales**
 
-### ✔ 2. Monthly Sales Trend (Line Chart)
+###  2. Monthly Sales Trend (Line Chart)
 - X-axis: Order Date  
 - Y-axis: Sales  
 - Shows monthly sales over time  
 
-### ✔ 3. Profit by Category (Bar Chart)
+###  3. Profit by Category (Bar Chart)
 - Category vs Profit  
 - Compare profitability across Furniture, Office Supplies, and Technology  
 
-### ✔ 4. Sales by Region (Donut Chart)
+###  4. Sales by Region (Donut Chart)
 - Shows % contribution of West, East, Central, South  
 - Helps identify high-performing regions  
 
-### ✔ 5. Slicers for Interactivity
+###  5. Slicers for Interactivity
 - **Order Date (Year)**  
 - **Category**  
 - **Region**  
@@ -67,5 +67,6 @@ Users can filter the dashboard using the slicers to view insights for specific s
 - `README.md` – Project documentation  
 
 ---
+
 
 
