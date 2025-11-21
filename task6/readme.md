@@ -17,7 +17,7 @@ Columns:
 
 ##  Tools Used
 - MySQL
-- SQL Workbench / XAMPP / phpMyAdmin
+- SQL Workbench 
 - GitHub for submission
 
 ---
@@ -58,4 +58,5 @@ Using:
 - `README.md`
 
 ---
+
 
